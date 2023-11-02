@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://KristiyanKKirilov.io)
 <h1 align="center">Hello 👋, My name is Kristiyan Kirilov</h1>
 <h3 align="center">A motivated and quick-witted developer</h3>
-<image align = "right" alt = "Coding" width = "400" src = "https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" style = "border-radius: 30%">
+<image align = "right" alt = "Coding" width = "400" src = "https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" style = "border-radius: 30">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiyankkirilov&label=Profile%20views&color=0e75b6&style=flat" alt="kristiyankkirilov" /> </p>
 
