@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#, C++, JavaScript, HTML, CSS, MSSQL, Entity Framework**
 
-- 👨‍💻 All of my projects are available at ["MyProjects" repository]("MyProjects" repository)
+- 👨‍💻 All of my projects are available at "MyProjects" repository
 
 - 📫 How to reach me **kirilov1905@gmail.com**
 
