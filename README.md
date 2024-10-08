@@ -2,7 +2,7 @@
 
 **`Junior Back-End Developer`**
 
-I`m currently graduated SoftUni student, who's looking to develop the learned knowledge even more in the web sphere. Alghough I am a student at TU-Varna, a proudly member of the competitive programming team of the university that participates in republic olympiads. On the other hand I am working on an ASP.NET application for healthy lifestyle.
+I`m currently graduated SoftUni student, who's looking to develop the learned knowledge even more in the web engineering. Alghough I am a student at TU-Varna, a proudly member of the competitive programming team of the university that participates in republic olympiads. On the other hand I am working on an ASP.NET application for healthy lifestyle.
 
   <p align="left">     
       <a href="https://github.com/KristiyanKKirilov?tab=followers">
