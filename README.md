@@ -1,4 +1,4 @@
-<img scr="https://persuasion-nation.com/wp-content/uploads/2024/04/is-programming-a-high-income-skill.jpg">
+<img width="400px" scr="https://persuasion-nation.com/wp-content/uploads/2024/04/is-programming-a-high-income-skill.jpg">
 # Kristiyan Kirilov
 
 **`Junior Back-End Developer`**
