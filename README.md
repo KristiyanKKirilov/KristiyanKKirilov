@@ -26,4 +26,3 @@ I`m currently graduated SoftUni student, who's looking to develop the learned kn
 ![Kristiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiyankkirilov&show_icons=true&theme=gruvbox)
 
 
-<p>&nbsp;<img style = "background-color: inherit" align="center" src="https://github-readme-stats.vercel.app/api?username=kristiyankkirilov&show_icons=true&locale=en" alt="kristiyankkirilov" /></p>
