@@ -12,13 +12,16 @@ I`m currently graduated SoftUni student, who's looking to develop the learned kn
    </p>
 
 ### 🧰 Languages and Tools
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-912x1024-j3yidw37.png" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" />
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,html,css,vscode,git" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48"/>
+</div>
+
 <br />
 
 ### 📊 Stats
