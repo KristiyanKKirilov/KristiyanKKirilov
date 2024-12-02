@@ -2,9 +2,9 @@
 
 **`Junior Back-End Developer`**
 
-<p align="center">I`m currently graduated SoftUni student, who's looking to develop the learned knowledge even more in the web engineering. Alghough I am a student at TU-Varna, a proudly member of the competitive programming team of the university that participates in republic olympiads. On the other hand I am working on an ASP.NET application for a healthy lifestyle.<p/>
+<p>I`m currently graduated SoftUni student, who's looking to develop the learned knowledge even more in the web engineering. Alghough I am a student at TU-Varna, a proudly member of the competitive programming team of the university that participates in republic olympiads. On the other hand I am working on an ASP.NET application for a healthy lifestyle.<p/>
 
-  <p align="center">     
+  <p align="left">     
       <a href="https://github.com/KristiyanKKirilov?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KristiyanKKirilov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/KristiyanKKirilov?tab=repositories&sort=stargazers">
@@ -13,7 +13,7 @@
 
 ### 🧰 Languages and Tools
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,html,css,vscode,git" />
     <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" />
