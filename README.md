@@ -10,6 +10,11 @@
       <a href="https://github.com/KristiyanKKirilov?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KristiyanKKirilov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   <div align="left"> 
+  <a href="https://www.linkedin.com/in/kristiyan-kirilov-797931302/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />  
+  </a>
+</div>
 
 ### 🧰 Languages and Tools
 <br/>
