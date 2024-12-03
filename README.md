@@ -21,7 +21,7 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,html,css,vscode,git" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48"/>
